@@ -1,4 +1,4 @@
 # SuperScript
 角标通知 
 
-![image](https://github.com/mylhyl/Android-CommonRefreshLayout/blob/master/preview/gif.gif)
+![image](https://github.com/zhichaoZhang/SuperScript/tree/master/SuperScriptView/image/gif.gif)
